@@ -1,38 +1,45 @@
+
 ---
 title: "About Me"
 date: 2024-07-19
 draft: false
 ---
 
-# Hi there! I'm Alex, a Software Engineer at Northeastern University 👋
+# Hi there! I'm Shiva Teja Dasi, a Software Engineer and MS Student at Northeastern University 👋
 
-I'm a recent graduate from Northeastern University's Khoury College of Computer Sciences, where I earned my Bachelor's degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university's renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.
+I'm currently pursuing my Master's degree in Software Engineering Systems at Northeastern University, Boston, MA, where I have achieved a GPA of 3.62. My academic journey has equipped me with a strong foundation in various software engineering principles and practices.
 
 ## My Passion for Technology 💻
 
-From a young age, I've been fascinated by the power of technology to solve complex problems and improve people's lives. This passion led me to pursue a career in software engineering, where I can continuously learn and innovate while working on projects that make a meaningful impact.
+From a young age, I've been captivated by the ability of technology to solve complex problems and enhance the quality of life. This passion has driven me to continuously learn and innovate in the field of software engineering, working on projects that have a meaningful impact.
 
-## My Co-op Experience 🚀
+## My Professional Experience 🚀
 
-Throughout my time at Northeastern, I completed three six-month co-op placements:
+Throughout my career, I have gained valuable experience in software development through various roles:
 
-1. **Software Engineering Intern at Amazon Web Services (AWS)**: I worked on the Elastic Compute Cloud (EC2) team, contributing to the development of new features and optimizations for AWS's flagship compute service.
+1. **Software Engineer at Cimpress, Mumbai, India**: I contributed to the Dexters Team for PixartPrinting, developing 30+ customizable ReactJS/TypeScript features in a microservices architecture. I implemented Test Driven Development with Jest and React, achieving over 95% code coverage, and integrated Open AI DALL-E for custom image generation.
 
-2. **Full Stack Developer at HubSpot**: As part of the Marketing Hub team, I collaborated with designers and product managers to build and maintain user-facing features for HubSpot's marketing automation platform.
-
-3. **Machine Learning Engineer at NVIDIA**: I joined the AI Research team, where I worked on developing and implementing novel deep learning algorithms for computer vision tasks, such as object detection and semantic segmentation.
+2. **Software Developer at The 10x Academy Startup, Hyderabad, India**: I executed a migration from React to Next.js and Node.js to Golang, managing over 2000 users with a 1.6s load time. I addressed backend performance issues, automated CI/CD pipelines with Kubernetes, and engineered a CMS with ReactJS and Express JS, reducing costs by 20%.
 
 ## My Skills and Interests 🧠
 
-- **Programming Languages**: Python, Java, C++, JavaScript, TypeScript
-- **Web Development**: React, Node.js, Express, HTML, CSS
-- **Databases**: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, DynamoDB)
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras
-- **Cloud Computing**: AWS, Google Cloud Platform, Microsoft Azure
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines, Git
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Web Technologies**: HTML, XML, CSS, TypeScript, ReactJS, Angular, NextJS, JQuery
+- **Back end Technologies**: NodeJS, ExpressJS, Golang, GraphQL, JSON, Babel, RESTful API
+- **DevOps and Cloud Technologies**: Git, Packer, GCP, AWS, Docker, Jenkins, Kubernetes, Lambda
+- **Database Technologies**: MySQL, MongoDB, Mongoose, GORM, Postgres, NoSQL, SQL
+- **Software Tools & Practices**: Postman, Figma, Visual Studio, UI/UX, JIRA, Agile, Linux, TDD
 
-When I'm not coding, you can find me exploring the great outdoors 🌲, playing soccer with friends ⚽️, or diving into a good science fiction novel 📚.
+When I'm not coding, I enjoy exploring new technologies, working on personal projects, and staying active with outdoor activities.
+
+## My Academic Projects 📚
+
+1. **Cloud Infrastructure Project | GCP, Terraform, Packer**: Architected secure Google Cloud infrastructure using Terraform and Packer, with GitHub Actions for CI. Integrated automated unit tests with Jest, ensured DB/API health during PRs, and implemented rolling updates for scalable instances.
+
+2. **Blink Step | Java, JavaFX, OpenStreetMap**: Developed a location-based app employing Graphs and Linked Lists, integrating Dijkstra's and A* algorithms for optimal routing in Boston.
+
+3. **Panorama Ed | React, Express, MongoDB, NodeJS, Redux, PWA**: Built a full stack web application for students, enabling college comparison and user feed, with WebSocket for mentor chat and analytical NLP sentiment analysis for service feedback.
 
 ## Let's Connect! 🤝
 
-I'm always eager to learn from others and collaborate on exciting projects. Feel free to reach out to me via [email](mailto:alex@example.com), [LinkedIn](https://www.linkedin.com/in/alex-example/), or [GitHub](https://github.com/alex-example). I look forward to connecting with you!
+I'm always eager to learn from others and collaborate on exciting projects. Feel free to reach out to me via [email](mailto:dasi.s@northeastern.edu), [LinkedIn](https://www.linkedin.com/in/shiva-teja-dasi/), or [GitHub](https://github.com/shiva-017). I look forward to connecting with you!
